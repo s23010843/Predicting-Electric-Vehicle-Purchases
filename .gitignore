@@ -219,3 +219,4 @@ __marimo__/
 
 /output
 *.parquet
+*.csv
