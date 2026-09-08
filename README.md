@@ -12,3 +12,8 @@ Baseline Score : 0.93738
 08. OOF accuracy: 0.860063 --> 0.94622
 09. OOF accuracy: 0.860063 --> 0.94627
 10. OOF accuracy: 0.860063 --> 0.94633
+11. OOF ROC AUC: 0.945968856 --> 0.94615
+12. OOF ROC AUC: 0.945970235 --> 0.94615
+13. OOF accuracy: 0.860063 --> 0.94635
+14. Best OOF accuracy: 0.860257 --> 0.94635
+15. OOF accuracy: 0.860192 ---> 0.94639
