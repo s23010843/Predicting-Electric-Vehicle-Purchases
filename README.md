@@ -17,3 +17,7 @@ Baseline Score : 0.93738
 13. OOF accuracy: 0.860063 --> 0.94635
 14. Best OOF accuracy: 0.860257 --> 0.94635
 15. OOF accuracy: 0.860192 ---> 0.94639
+16. OOF accuracy: 0.860192 ---> 0.94640
+17. OOF accuracy: 0.860192 ---> 0.94641
+18. OOF accuracy: 0.860192 ---> 0.94642
+19. OOF accuracy: 0.860192 ---> 0.94643
