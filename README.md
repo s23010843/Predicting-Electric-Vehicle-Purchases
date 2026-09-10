@@ -21,3 +21,4 @@ Baseline Score : 0.93738
 17. OOF accuracy: 0.860192 ---> 0.94641
 18. OOF accuracy: 0.860192 ---> 0.94642
 19. OOF accuracy: 0.860192 ---> 0.94643
+20. OOF accuracy: 0.860192 : Prediction median : 0.548572 ---> 0.94644
